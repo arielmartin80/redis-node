@@ -1,0 +1,21 @@
+{
+    "name": "redis-node",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon src/index.js"
+    },
+    "keywords": [],
+    "author": "Ariel Martin",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "express": "^4.18.1",
+        "redis": "^4.0.6"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.16",
+        "response-time": "^2.3.2"
+    }
+}

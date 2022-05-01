@@ -1,0 +1,9 @@
+### sin promisify
+GET http://localhost:3000/characterS
+
+### con promisify
+GET http://localhost:3000/characterS2
+
+
+### con parametro
+GET http://localhost:3000/character/5
